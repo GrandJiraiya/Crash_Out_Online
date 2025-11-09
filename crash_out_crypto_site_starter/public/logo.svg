@@ -1,0 +1,5 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" fill="#111111"/>
+  <circle cx="90" cy="90" r="62" fill="#FFD166"/>
+  <text x="90" y="100" text-anchor="middle" font-size="22" font-family="Arial" fill="#111111">Crash_Out</text>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "title": "Oath of the Peck \u2014 Digital Book (ePub/PDF)",
+      "type": "external",
+      "url": "https://square.link/your-product-or-zora-mint",
+      "blurb": "The canonical Book I. Instant download. Updates included.",
+      "img": "/logo.svg"
+    },
+    {
+      "title": "Arcolos Badge \u2014 Zora Mint",
+      "type": "zora",
+      "url": "https://zora.co/collect/base:0x0000000000000000000000000000000000000000",
+      "blurb": "Onchain badge of faith. Bronze finish. We Rise at Dawn.",
+      "img": "/logo.svg"
+    }
+  ]
+}
